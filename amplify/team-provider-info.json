@@ -1,0 +1,28 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-blanktest-dev-211931-authRole",
+            "UnauthRoleArn": "arn:aws:iam::757416082881:role/amplify-blanktest-dev-211931-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::757416082881:role/amplify-blanktest-dev-211931-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-blanktest-dev-211931-deployment",
+            "UnauthRoleName": "amplify-blanktest-dev-211931-unauthRole",
+            "StackName": "amplify-blanktest-dev-211931",
+            "StackId": "arn:aws:cloudformation:us-east-2:757416082881:stack/amplify-blanktest-dev-211931/cd81d7b0-b5b8-11ea-b188-06d9da1ade34",
+            "AmplifyAppId": "d2tzxmzcg8g7f9"
+        }
+    },
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-blanktest-master-213306-authRole",
+            "UnauthRoleArn": "arn:aws:iam::757416082881:role/amplify-blanktest-master-213306-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::757416082881:role/amplify-blanktest-master-213306-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-blanktest-master-213306-deployment",
+            "UnauthRoleName": "amplify-blanktest-master-213306-unauthRole",
+            "StackName": "amplify-blanktest-master-213306",
+            "StackId": "arn:aws:cloudformation:us-east-2:757416082881:stack/amplify-blanktest-master-213306/a816ea40-b5ba-11ea-9af6-065ddb117676",
+            "AmplifyAppId": "d2tzxmzcg8g7f9"
+        }
+    }
+}
